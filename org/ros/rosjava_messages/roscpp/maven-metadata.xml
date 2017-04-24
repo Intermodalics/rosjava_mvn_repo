@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.ros.rosjava_messages</groupId>
   <artifactId>roscpp</artifactId>
-  <version>1.11.21</version>
+  <version>1.12.6</version>
   <versioning>
     <versions>
-      <version>1.11.21</version>
+      <version>1.12.6</version>
     </versions>
-    <lastUpdated>20170424184650</lastUpdated>
+    <lastUpdated>20170424192510</lastUpdated>
   </versioning>
 </metadata>

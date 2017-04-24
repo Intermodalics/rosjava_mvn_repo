@@ -2,11 +2,11 @@
 <metadata>
   <groupId>org.ros.rosjava_messages</groupId>
   <artifactId>concert_service_msgs</artifactId>
-  <version>0.7.12</version>
+  <version>0.9.0</version>
   <versioning>
     <versions>
-      <version>0.7.12</version>
+      <version>0.9.0</version>
     </versions>
-    <lastUpdated>20170424184654</lastUpdated>
+    <lastUpdated>20170424192517</lastUpdated>
   </versioning>
 </metadata>
